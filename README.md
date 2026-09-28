@@ -14,4 +14,4 @@ You should **start with strings**, then progress to numbers, input, booleans, co
 ## Contributing
 If you wish to contribute, create an issue or pull request!
 
-<sub>Despite github likely listing me as the sole contributor, I have not worked alone on these projects.</sub>
+<sub>Despite github likely listing me as the sole contributor, I am in fact not alone in maintaining this.</sub>

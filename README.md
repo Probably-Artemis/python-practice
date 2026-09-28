@@ -13,3 +13,6 @@ You should **start with strings**, then progress to numbers, input, booleans, co
 
 ## Contributing
 If you wish to contribute, create an issue or pull request!
+
+## Questions
+If you know me in person and use these files to practice, I am more than happy to answer your questions. 

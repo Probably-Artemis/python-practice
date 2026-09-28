@@ -1,6 +1,6 @@
 # Practice files for learning python
 
-This repository contains a set of practice files to work through, starting easy and gradually getting more difficult. Some problems may be open ended, others may have more specific tasks. A comment at the top of each file will tell you your objective and any potential restrictions. **A** solution for a given file will generally be stored next to it. Many files may have more than one solution, potentially even a solution better than the one provided.
+This repository contains a set of practice files to work through, starting easy and gradually getting more difficult. Some problems may be open ended, others may have more specific tasks. A comment at the top of each file will tell you your objective and any potential restrictions. **A** solution for a given file will generally be stored next to it. For many files, the provided solution may not be the only way to complete that objective, perhaps not even the *best* way to complete the objective.
 
 This repository is a work in progress, please have patience. 
 

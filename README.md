@@ -33,11 +33,11 @@ python3 basics/strings/01-intro.py
 
 ---
 
-## Basics
+## [Basics](https://github.com/Probably-Artemis/python-practice/tree/main/basics)
 
 You should **start with [strings](https://github.com/Probably-Artemis/python-practice/tree/main/basics/strings)**, then progress to numbers, input, booleans, conditionals, loops, and finally lists. Beyond these sections, simply work on what you need to refresh. Dictionaries, tuples, and sets for example may call upon things from all prior sections.
 
-## Debugging Basics
+## [Debugging Basics](https://github.com/Probably-Artemis/python-practice/tree/main/debugging-basics)
 
 This section contains folders similar to Basics, but with a focus on debugging existing code instead of writing your own. Same suggested progression as Basics.
 
@@ -45,7 +45,7 @@ This section contains folders similar to Basics, but with a focus on debugging e
 
 ## Contributing
 
-If you wish to contribute, create an issue or pull request!
+If you wish to contribute, create an issue or pull request! If you don't know how to use git, learn how to use git, you <u>will</u> need it.
 
 ## Questions
 
@@ -55,4 +55,4 @@ If you know me in person and use these files to practice, I am more than happy t
 
 ## An Aside
 
-Developers frequently preach a far higher standard than they actually practice. I am not an exception. This repository is an amalgam of the fruit of my time assisting in introductory Python courses, not in the slightest how I actually write my code on a day-to-day basis.
+Developers frequently preach a far higher standard than they actually practice. I am not an exception. This repository is an amalgam of the fruit of my time assisting in introductory Python courses, and is not in the slightest how I actually write my code on a day-to-day basis.

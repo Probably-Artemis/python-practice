@@ -37,6 +37,10 @@ python3 basics/strings/01-intro.py
 
 You should **start with [strings](https://github.com/Probably-Artemis/python-practice/tree/main/basics/strings)**, then progress to numbers, input, booleans, conditionals, loops, and finally lists. Beyond these sections, simply work on what you need to refresh. Dictionaries, tuples, and sets for example may call upon things from all prior sections.
 
+## Debugging Basics
+
+This section contains folders similar to Basics, but with a focus on debugging existing code instead of writing your own. Same suggested progression as Basics.
+
 ---
 
 ## Contributing

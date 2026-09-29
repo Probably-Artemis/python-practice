@@ -9,7 +9,7 @@ I would suggest using VS Code as your IDE if you are new enough as to not have c
 ---
 
 ## Basics
-You should **start with [strings](https://github.com/Probably-Artemis/python-practice/tree/489ae37b98386d372bcf1bec433201b5e4dcfccd/basics/strings)**, then progress to numbers, input, booleans, conditionals, loops, and finally lists.
+You should **start with [strings](https://github.com/Probably-Artemis/python-practice/tree/489ae37b98386d372bcf1bec433201b5e4dcfccd/basics/strings)**, then progress to numbers, input, booleans, conditionals, loops, and finally lists. Beyond this, simply work on what you need to refresh.
 
 ---
 

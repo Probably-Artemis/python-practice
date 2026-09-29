@@ -14,7 +14,7 @@ git clone https://github.com/Probably-Artemis/python-practice.git
 ```
 For example, if I run that command from `~/work`, I will end up with `~/work/python-practice`. The file you are currently reading would thus be at `~/work/python-practice/README.md`.
 
-If you use Windows, the above file paths likely look odd. If I ran the command on Windows from `C:\Users\artemis\work`, the README file you're currently reading would be at `C:\Users\artemis\work\README.md`.
+If you use Windows, the above file paths likely look odd. If I ran the command on Windows from `C:\Users\artemis\work`, the README file you're currently reading would be at `C:\Users\artemis\work\python-practice\README.md`.
 
 If you do not wish to clone the repository from the terminal, you may instead download (and extract) a compressed zip archive [here](https://github.com/Probably-Artemis/python-practice/archive/refs/heads/main.zip).
 

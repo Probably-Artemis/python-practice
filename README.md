@@ -6,17 +6,32 @@ This repository is a work in progress, please have patience.
 
 I would suggest using VS Code as your IDE if you are new enough as to not have chosen an IDE yet. If you cannot install an IDE locally (for example if you are using a Chromebook) I would suggest using the [CS50 IDE](https://cs50.dev/), a cloud based IDE hosted by Harvard. (yes, that Harvard)
 
+## Getting Started
+
+To start, clone this repository into your workspace. The below command will clone the files into their own folder within the current working directory.
+```
+git clone https://github.com/Probably-Artemis/python-practice.git
+```
+For example, if I run that command from `~/work`, I will end up with `~/work/python-practice`. The file you are currently reading would thus be at `~/work/python-practice/README.md`.
+
+If you use Windows, the above file paths likely look odd. If I ran the command on Windows from `C:\Users\artemis\work`, the README file you're currently reading would be at `C:\Users\artemis\work\README.md`.
+
+If you do not wish to clone the repository from the terminal, you may instead download (and extract) a compressed zip archive [here](https://github.com/Probably-Artemis/python-practice/archive/refs/heads/main.zip).
+
 ---
 
 ## Basics
-You should **start with [strings](https://github.com/Probably-Artemis/python-practice/tree/489ae37b98386d372bcf1bec433201b5e4dcfccd/basics/strings)**, then progress to numbers, input, booleans, conditionals, loops, and finally lists. Beyond this, simply work on what you need to refresh.
+
+You should **start with [strings](https://github.com/Probably-Artemis/python-practice/tree/main/basics/strings)**, then progress to numbers, input, booleans, conditionals, loops, and finally lists. Beyond this, simply work on what you need to refresh.
 
 ---
 
 ## Contributing
+
 If you wish to contribute, create an issue or pull request!
 
 ## Questions
+
 If you know me in person and use these files to practice, I am more than happy to answer your questions. You know how to reach me.
 
 <sup>(hint: it's by walking up to me and just asking the question)</sup>

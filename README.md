@@ -17,4 +17,6 @@ You should **start with [strings](https://github.com/Probably-Artemis/python-pra
 If you wish to contribute, create an issue or pull request!
 
 ## Questions
-If you know me in person and use these files to practice, I am more than happy to answer your questions.
+If you know me in person and use these files to practice, I am more than happy to answer your questions. You know how to reach me.
+
+<sup>(hint: it's by walking up to me and just asking the question)</sup>

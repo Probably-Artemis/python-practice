@@ -8,7 +8,9 @@ This repository is a work in progress. Please have patience.
 
 I would suggest using VS Code as your IDE if you have not chosen an IDE yet. If you cannot install an IDE locally (for example if you are using a Chromebook) I would suggest using the [CS50 IDE](https://cs50.dev/), a cloud based IDE hosted by Harvard. (yes, that Harvard)
 
-## Getting Started
+Also see the library [Probably-Artemis/assorted-python-tools](https://github.com/Probably-Artemis/assorted-python-tools), it may have some useful things in it.
+
+# Getting Started
 
 To start, clone this repository into your workspace. The command below will clone the files into their own folder within the current working directory.
 ```
@@ -33,6 +35,10 @@ python3 basics/strings/01-intro.py
 
 ---
 
+# Sections
+
+Almost every section will presume comfort with the contents of the Basics section.
+
 ## [Basics](https://github.com/Probably-Artemis/python-practice/tree/main/basics)
 
 You should **start with [strings](https://github.com/Probably-Artemis/python-practice/tree/main/basics/strings)**, then progress to numbers, input, booleans, conditionals, loops, and finally lists. Beyond these sections, simply work on what you need to refresh. Dictionaries, tuples, and sets for example may call upon things from all prior sections.
@@ -41,18 +47,22 @@ You should **start with [strings](https://github.com/Probably-Artemis/python-pra
 
 This section contains folders similar to Basics, but with a focus on debugging existing code instead of writing your own. Same suggested progression as Basics.
 
+## Regex
+
+This section is coming soon. 
+
 ---
 
-## Contributing
+# Contributing
 
 If you wish to contribute, create an issue or pull request! If you don't know how to use git, learn how to use git, you <u>will</u> need it.
 
-## Questions
+# Questions
 
 If you know me in person and use these files to practice, I am more than happy to answer your questions. You know how to reach me.
 
 <sup>(hint: it's by walking up to me and just asking the question)</sup>
 
-## An Aside
+# An Aside
 
 Developers frequently preach a far higher standard than they actually practice. I am not an exception. This repository is an amalgam of the fruit of my time assisting in introductory Python courses, and is not in the slightest how I actually write my code on a day-to-day basis.

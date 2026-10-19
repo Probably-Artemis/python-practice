@@ -6,7 +6,7 @@ This is *not* meant to teach you Python on its own. This is meant to provide sel
 
 This repository is a work in progress. Please have patience.
 
-I would suggest using VS Code as your IDE if you have not chosen an IDE yet. If you cannot install an IDE locally (for example if you are using a Chromebook) I would suggest using the [CS50 IDE](https://cs50.dev/), a cloud based IDE hosted by Harvard. (yes, that Harvard)
+I would suggest using VS Code as your IDE if you have not chosen an IDE yet. If you cannot install an IDE locally (for example if you are using a Chromebook owned by your school or university) I would suggest using the [CS50 IDE](https://cs50.dev/), a cloud based IDE hosted by Harvard. (yes, that Harvard)
 
 Also see the library [Probably-Artemis/assorted-python-tools](https://github.com/Probably-Artemis/assorted-python-tools), it may have some useful things in it.
 

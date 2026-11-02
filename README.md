@@ -49,7 +49,7 @@ This section contains subsections similar to Basics, but with a focus on debuggi
 ## [Intermediate](https://github.com/Probably-Artemis/python-practice/tree/main/intermediate)
 This section proceeds beyond the Basics section, covering more intermediate material. The suggested order to complete this section is comprehensions, error handling, modules, and finally file input and output.
 ## [Mixed Challenges](https://github.com/Probably-Artemis/python-practice/tree/main/mixed-challenges)
-This section contains longer problems which combine multiple topics, organized by section. For example, problems in the Basics subsection will rely on only the teachings of Basics, whereas problems in the Intermediate subsection will rely on the teachings of both Basics and Intermediate.
+This section contains longer problems which combine multiple topics, organized by section. For example, problems in the Basics subsection will rely on only the teachings of Basics, whereas problems in the Intermediate subsection will rely on the teachings of both Basics and Intermediate. While the files in other sections and subsections are numbered by difficulty/complexity, (for example, basics/strings/01-intro is less complex than basics/strings/08-slicing) the files in basics are not necessarily sorted in any particular order.
 
 ## Regex
 

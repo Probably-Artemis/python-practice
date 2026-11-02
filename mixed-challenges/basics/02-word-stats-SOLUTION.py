@@ -5,7 +5,7 @@ Restriction: you may not edit preexisting code.
 
 text = "It was the best of times, it was the worst of times; it was the age of wisdom, it was the age of foolishness. It was the epoch of belief!"
 
-words = [w.strip(",.;!?").lower() for w in text.split()]
+words = [w.strip(",.;!?").lower() for w in text.split()] # a list comprehension, covered in intermediate/comprehensions. it builds the same list as a loop appending w.strip(",.;!?").lower() for each w in text.split(). the two below work the same way.
 
 print("Total words:", len(words))
 print("Different words:", len(set(words)))

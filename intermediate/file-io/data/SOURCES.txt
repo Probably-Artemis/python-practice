@@ -1,0 +1,2 @@
+poem.txt: William Shakespeare, Sonnet 18, first published in 1609.
+excerpt.txt: Jane Austen, Pride and Prejudice, first published in 1813. The opening of chapter 1.

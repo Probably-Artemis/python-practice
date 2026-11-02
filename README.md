@@ -59,7 +59,7 @@ This section is coming soon.
 
 # Contributing
 
-If you wish to contribute, create an issue or pull request! If you don't know how to use git, learn how to use git, you <u>will</u> need it.
+If you wish to contribute, create an issue or pull request! If you don't know how to use git, learn how to use git, you <ins>will</ins> need it.
 
 # Questions
 

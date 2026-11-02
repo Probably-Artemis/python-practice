@@ -41,11 +41,13 @@ Almost every section will presume comfort with the contents of the Basics sectio
 
 ## [Basics](https://github.com/Probably-Artemis/python-practice/tree/main/basics)
 
-You should **start with [strings](https://github.com/Probably-Artemis/python-practice/tree/main/basics/strings)**, then progress to numbers, input, booleans, conditionals, loops, and finally lists. Beyond these sections, simply work on what you need to refresh. Dictionaries, tuples, and sets for example may call upon things from all prior sections.
+You should **start with [strings](https://github.com/Probably-Artemis/python-practice/tree/main/basics/strings)**, then progress to numbers, input, booleans, conditionals, loops, and finally lists. Beyond these sections, simply work on what you need to refresh. Dictionaries, tuples, sets, and functions for example may call upon things from all prior subsections.
 
 ## [Debugging Basics](https://github.com/Probably-Artemis/python-practice/tree/main/debugging-basics)
 
-This section contains folders similar to Basics, but with a focus on debugging existing code instead of writing your own. Same suggested progression as Basics.
+This section contains subsections similar to Basics, but with a focus on debugging existing code instead of writing your own. Same suggested progression as Basics.
+## [Intermediate](https://github.com/Probably-Artemis/python-practice/tree/main/intermediate)
+This section proceeds beyond the Basics section, covering more intermediate material. The suggested order to complete this section is comprehensions, error handling, modules, and finally file input and output.
 
 ## Regex
 

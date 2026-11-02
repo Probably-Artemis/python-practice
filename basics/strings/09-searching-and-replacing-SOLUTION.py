@@ -7,4 +7,4 @@ sentence = "a cat sat on a mat and another cat sat on a hat"
 
 print(sentence.count("a"))
 print(sentence.find("cat")) # find() returns -1 if it cannot find the desired substring.
-print(sentence.replace("cat", "dog")) # like every string method, this makes a new string. sentence itself still has cats in it.
+print(sentence.replace("cat", "dog")) # string methods never change the original. replace() returns a new string, so sentence itself still has cats in it.

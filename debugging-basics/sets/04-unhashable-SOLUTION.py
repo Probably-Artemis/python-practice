@@ -4,7 +4,7 @@ Objective: the code below should store each point in visited only once, then out
 
 visited = set()
 
-visited.add((0, 0)) # sets can only hold immutable values. a list is mutable, which raises a TypeError, but a tuple works.
+visited.add((0, 0)) # sets can only hold hashable values, which in practice means immutable ones like numbers, strings, and tuples. a list is mutable, so adding one raises a TypeError.
 visited.add((1, 2))
 visited.add((0, 0))
 

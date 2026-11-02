@@ -7,7 +7,7 @@ price = float(input("Price: "))
 quantity = int(input("Quantity: ")) # you can't buy half a sweater, so int makes sense here.
 
 subtotal = price * quantity
-tax = subtotal * 0.0625 # 6.25% as a decimal.
+tax = round(subtotal * 0.0625, 2) # 6.25% as a decimal, rounded to the cent so the lines below always add up.
 total = subtotal + tax
 
 print(f"{quantity} x {item}")

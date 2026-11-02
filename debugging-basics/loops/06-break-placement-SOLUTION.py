@@ -5,4 +5,4 @@ Objective: the code below should output the first number from 1 to 100 that is d
 for n in range(1, 101):
     if n % 7 == 0 and n % 11 == 0:
         print(n)
-        break # break was indented to the level of the loop rather than the if, so the loop exited during its first iteration.
+        break # break was at the same indent as the if instead of inside it, so it ran on the first iteration and ended the loop.

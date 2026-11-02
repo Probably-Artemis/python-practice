@@ -5,6 +5,6 @@ Restriction: you may not use if statements.
 
 year = 2024
 
-is_leap = year % 4 == 0 and (year % 100 != 0 or year % 400 == 0) # the parentheses matter here. and happens before or, the same way * happens before +.
+is_leap = year % 4 == 0 and (year % 100 != 0 or year % 400 == 0) # and happens before or, the same way * happens before +. the parentheses make the grouping clear, though this line gives the same answer without them, since every year divisible by 400 is also divisible by 4.
 
 print(is_leap)

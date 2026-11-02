@@ -4,6 +4,6 @@ Objective: a year is a leap year if it is divisible by 4, except for years divis
 
 year = 1900
 
-is_leap = year % 4 == 0 and (year % 100 != 0 or year % 400 == 0) # and and or were swapped, and without parentheses, and is evaluated before or.
+is_leap = year % 4 == 0 and (year % 100 != 0 or year % 400 == 0) # the and and the or were swapped. and is evaluated before or, so the original meant: divisible by 4, or (not divisible by 100 and divisible by 400).
 
 print(is_leap)

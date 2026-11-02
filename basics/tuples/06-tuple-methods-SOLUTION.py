@@ -7,7 +7,7 @@ rolls = (4, 2, 6, 6, 1, 6, 3)
 
 print(rolls.count(6))
 print(rolls.index(6)) # index() raises a ValueError if the item isn't in the tuple.
-print(max(rolls))
+print(max(rolls)) # max() and min() work on any collection of numbers, including lists.
 print(min(rolls))
 print(5 in rolls)
 

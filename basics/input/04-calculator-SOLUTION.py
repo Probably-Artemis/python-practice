@@ -8,4 +8,4 @@ b = float(input("Second number: "))
 print("Sum:", a + b)
 print("Difference:", a - b)
 print("Product:", a * b)
-print("Quotient:", a / b) # if the second number is 0, this line errors. the conditionals folder covers how to guard against that.
+print("Quotient:", a / b) # if the second number is 0, this line errors. conditionals/09-calculator covers how to guard against that.

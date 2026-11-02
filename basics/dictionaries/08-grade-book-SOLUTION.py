@@ -14,7 +14,7 @@ best_average = -1 # starting below any possible average means the first student 
 
 for name, scores in grades.items(): # values can be any type, including lists.
     average = sum(scores) / len(scores)
-    print(name, round(average, 1))
+    print(name, round(average, 1)) # a value exactly halfway rounds to the nearest even digit, so sam's 78.25 becomes 78.2, not 78.3.
 
     if average > best_average:
         best_name = name

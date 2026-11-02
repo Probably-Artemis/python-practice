@@ -16,5 +16,5 @@ print(total)
 print(average)
 
 # once you understand how it works, sum(grades) / len(grades) is the standard way to do this.
-total = sum(grades)
-average = sum(grades) / len(grades)
+# total = sum(grades)
+# average = sum(grades) / len(grades)

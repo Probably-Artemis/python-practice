@@ -5,7 +5,7 @@ Restriction: you may not edit preexisting code, and your code must still work if
 
 prices = {"coffee": 3.5, "bagel": 2.25, "muffin": 2.75, "tea": 3.0}
 
-for item, price in prices.items(): # items() returns each key and value together as a tuple.
+for item, price in prices.items(): # items() returns each key and value together as a tuple, and item, price unpacks each one into two variables at once.
     print(f"{item}: ${price:.2f}")
 
 for item in prices: # iterating over a dictionary directly gives only its keys.

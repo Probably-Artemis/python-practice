@@ -6,7 +6,7 @@ Restriction: you may not edit preexisting code, you may not use count(), and you
 numbers = [4, 9, 2, 7, 9, 4, 2]
 
 seen = set()
-duplicate = None
+duplicate = None # None is a value meaning "nothing". is None checks for it.
 
 for n in numbers:
     if n in seen: # if we've seen n before, this is its second appearance.

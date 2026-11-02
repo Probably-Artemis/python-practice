@@ -19,7 +19,7 @@ while True: # this loop runs forever until a break inside it ends it.
     elif command == "show":
         if len(shopping) == 0:
             print("The list is empty.")
-        for number, item in enumerate(shopping, start=1):
+        for number, item in enumerate(shopping, start=1): # enumerate() returns each item along with a counter, and start=1 makes the counter begin at 1.
             print(f"{number}. {item}")
     elif command == "quit":
         print("Goodbye!")

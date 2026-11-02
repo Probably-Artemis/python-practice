@@ -4,4 +4,4 @@ Objective: the code below should output True if color is "red" or "green", and F
 
 color = "blue"
 
-print(color == "red" or color == "green") # or does not repeat the comparison for you. the original was (color == "red") or ("green"), and a non-empty string is truthy.
+print(color == "red" or color == "green") # or does not repeat the comparison for you. the original was (color == "red") or ("green"). when the left side is False, or returns the right side, so it output "green".

@@ -12,5 +12,5 @@ scores = tuple(temp)
 
 print(scores)
 
-# this also works in one line. + joins two tuples into a new one, and sorted() accepts any iterable but always returns a list.
+# this also works in one line. + joins two tuples into a new one, and sorted() accepts lists, tuples, strings, and more, but always returns a list.
 # scores = tuple(sorted(scores + (100,), reverse=True))
